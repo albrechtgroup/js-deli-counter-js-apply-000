@@ -1,7 +1,6 @@
 var number = 0
 
 function takeANumber() {
-  let number = 0
   number++
   return `Order Number ${number}`
 
