@@ -1,4 +1,5 @@
 function takeANumber() {
+  let number = "0"
   return `Order Number 1`
 };
 console.log(takeANumber());
