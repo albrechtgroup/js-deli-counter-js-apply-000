@@ -20,6 +20,6 @@ function currentLine(arr) {
   for (let i = 0; i < arr.length; i++) {
     orderedList += `${i+1}. ${arr[i]}, `
   }
-
-  return `The line is currently: ` + orderedList.slice(0, -2);
+  
+  // return `The line is currently: ` + orderedList.slice(0, -2);
 }
