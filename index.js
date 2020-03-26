@@ -2,7 +2,7 @@ function takeANumber() {
   let number = 0
   number++
   return `Order Number ${number}`
-  
+
 };
 console.log(takeANumber());
 
