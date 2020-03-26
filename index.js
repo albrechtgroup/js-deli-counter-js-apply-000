@@ -1,4 +1,4 @@
-function takeANumber(arr, name) {
+function takeANumber() {
   arr.push(name);
   return `Welcome, ${name}. You are number ${arr.indexOf(name) + 1} in line.`
 };
