@@ -22,5 +22,5 @@ function currentLine(arr) {
     orderedList += `${i+1}. ${arr[i]}, `
   }
 
-  return `The line is currently: ` + orderedList.slice(0, -1);
+  return `The line is currently: ` + orderedList.slice(0, -3);
 }
