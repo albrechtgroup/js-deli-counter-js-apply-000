@@ -1,6 +1,9 @@
 function takeANumber() {
   return `Order Number`
 };
+console.log(takeANumber());
+
+
 
 function nowServing(arr) {
 
