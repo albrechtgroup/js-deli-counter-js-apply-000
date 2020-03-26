@@ -1,5 +1,5 @@
 function takeANumber() {
-  return `Welcome, ${name}. Order Number ${arr.indexOf(name) + 1} in line.`
+  return Order Number ${arr.indexOf(name) + 1} in line.`
 };
 
 function nowServing(arr) {
