@@ -5,6 +5,8 @@ function takeANumber() {
 
 };
 console.log(takeANumber());
+console.log(takeANumber());
+console.log(takeANumber());
 
 
 
