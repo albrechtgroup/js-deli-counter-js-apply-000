@@ -1,6 +1,6 @@
 function takeANumber() {
   let number = 0
-  return `Order Number 1`
+  return `Order Number ${number}`
 };
 console.log(takeANumber());
 
